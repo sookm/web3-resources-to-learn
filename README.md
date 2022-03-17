@@ -19,7 +19,7 @@ Web3 란 무엇일까 ?
 
 </br>
 
-### 🏋️‍♀️ What Stacks Develpers Should Practice ? 
+### 🏋️‍♀️ What Stacks New Develpers Should Practice ? 
 개발자들은 어떤 스택을 알아야 할까요 ?
 
 <img src="https://raw.githubusercontent.com/fabiospampinato/vscode-github-notifications-bell/master/resources/logo.png" style="width:20px;"/>  [Ethereum Developer Tools List](https://github.com/ConsenSys/ethereum-developer-tools-list) </br>
