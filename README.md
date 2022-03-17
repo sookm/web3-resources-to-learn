@@ -4,7 +4,7 @@
 - What is Web3 ?  | Web3 란 무엇일까 ?
 - What Stacks New Developers Should Know ? | 우리 개발자들은 어떤 스택을 알아야 할까요 ?
 - Summary of Sundays Sessions | 매주 세션 내용 정리
-- Videos, Blogs and Terms | Web3 관련 링크 + 읽을 거리 //(#Videos-and-Terms) 
+- Videos, Blogs and Terms | Web3 관련 링크 + 읽을 거리 <!-- (#Videos-and-Terms) -->
 </br></br>
 
 ### 🧙‍♂️ What is Web3 ? | Web3 란 무엇일까 ?
@@ -17,9 +17,7 @@
 
 ### 🏋️‍♀️ What Stacks Develpers Should Practice ? | 개발자들은 어떤 스택을 알아야 할까요 ?
           
-[![github] **Ethereum Developer Tools List**](https://github.com/ConsenSys/ethereum-developer-tools-list) 
-  
-  //- A guide to available tools and platforms for developing on Ethereum.
+[![github] **Ethereum Developer Tools List**](https://github.com/ConsenSys/ethereum-developer-tools-list)  <1!-- - A guide to available tools and platforms for developing on Ethereum.-->
   
 [![github] **Back-end Developer Interview Questions**](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions)
 
