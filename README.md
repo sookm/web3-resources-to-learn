@@ -1,4 +1,4 @@
-# 👩‍🎤 Let's Learn About Web3 From Free Resources Online
+# 👩‍🎤 *Let's Learn About Web3 From Free Resources Online ! *
 
 #### Contents
 - What is Web3 ?  | Web3 란 무엇일까 ?
