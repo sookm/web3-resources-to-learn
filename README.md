@@ -8,7 +8,7 @@
 </br></br>
 
 ### 🧙‍♂️ What is Web3 ? | Web3 란 무엇일까 ?
-##### Tutorials
+#### Tutorials
 * [Odyssey DAO](https://www.odysseydao.com/) - quality web3 education
 
 
