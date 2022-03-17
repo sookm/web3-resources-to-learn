@@ -17,8 +17,7 @@
 
 ### 🏋️‍♀️ What Stacks Develpers Should Practice ? | 개발자들은 어떤 스택을 알아야 할까요 ?
 
-![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png =10x) [**##**](https://github.com/ConsenSys/ethereum-developer-tools-list)
-<img src="https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png" style="width:50px;"/>[**Ethereum Developer Tools List***](https://github.com/ConsenSys/ethereum-developer-tools-list)
+<img src="https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png" style="width:50px;"/>[**Ethereum Developer Tools List**](https://github.com/ConsenSys/ethereum-developer-tools-list)
 
    [![github]       (https://github.com/ConsenSys/ethereum-developer-tools-list)
 [![github] **Ethereum Developer Tools List**](https://github.com/ConsenSys/ethereum-developer-tools-list)  <!-- - A guide to available tools and platforms for developing on Ethereum.-->
