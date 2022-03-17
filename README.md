@@ -7,7 +7,7 @@
 - Videos, Blogs and Terms | Web3 관련 링크 + 읽을 거리 <!-- (#Videos-and-Terms) -->
 </br>
 </br>
-</br>
+
 
 ### 🧙‍♂️ What is Web3 ? | Web3 란 무엇일까 ?
 * [Odyssey DAO](https://www.odysseydao.com/) - quality web3 education
