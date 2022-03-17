@@ -41,6 +41,6 @@ Web3 란 무엇일까 ?
 ### 📺 Videos, Blogs and Terms 
 Web3 관련 링크 + 읽을 거리 
 
-<img src="https://cdn.freebiesupply.com/images/large/2x/blogger-logo-black-transparent.png" style="width:18px;"/>  [Eda's blog - a blog to write about web3](https://eda.hashnode.dev/) </br>
+<img src="https://cdn.freebiesupply.com/images/large/2x/blogger-logo-black-transparent.png" style="width:18px;"/>  [Eda's blog - Writes About Web3](https://eda.hashnode.dev/) </br>
 
 
