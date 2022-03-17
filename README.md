@@ -11,7 +11,7 @@
 
 ### 🧙‍♂️ What is Web3 ? 
 &nbsp;&nbsp; Web3 란 무엇일까 ?
-* [What is Web3 ?](https://www.odysseydao.com/pathways/intro-to-web3) -   Odyssey DAO : Web3 Education 
+* [What is Web3 ?](https://www.odysseydao.com/pathways/intro-to-web3) (Odyssey DAO - web3 Education) 
 
 * [Web3.0 탈중앙이 무엇인지 간략하게 알아보자](https://medium.com/coineasy/web3-0-dapp%EC%9D%98-%EA%B5%AC%EC%A1%B0-web3-0-%ED%83%88%EC%A4%91%EC%95%99-%EC%9D%B4-%EB%8F%84%EB%8C%80%EC%B2%B4-%EB%AC%B4%EC%97%87%EC%9D%B8%EC%A7%80-%EA%B8%B0%EC%88%A0%EC%A0%81%EC%9C%BC%EB%A1%9C-%EA%B0%84%EB%9E%B5%ED%95%98%EA%B2%8C-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90-a37f0a5f8511) 
 * [Web3.0 어플리케이션이란?](https://talken.io/tokens/GraphToken/forum/post/332838) 
