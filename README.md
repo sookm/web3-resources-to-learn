@@ -39,7 +39,7 @@
 </br>
 
 ### 📺 Videos, Blogs and Terms 
-&nbsp;&nbsp; Web3 관련 링크 + 읽을 거리 
+&nbsp;&nbsp; Web3 관련 링크와 읽을 거리 
 
 <img src="https://cdn.freebiesupply.com/images/large/2x/blogger-logo-black-transparent.png" style="width:18px;"/>  [Eda's blog - Writes About Web3](https://eda.hashnode.dev/) </br>
 <img src="https://cdn.freebiesupply.com/images/large/2x/blogger-logo-black-transparent.png" style="width:18px;"/>  [Gaby's Web3 Reading List](https://gabygoldberg.notion.site/f7050e62461143d49345e7b46eb5576b?v=c02511c4230c44ce9a1a03c9757da524) </br>
