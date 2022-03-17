@@ -4,7 +4,7 @@
 - What is Web3 ?  | Web3 란 무엇일까 ?
 - What Stacks Develpers Should Practice ? | 우리 개발자들은 어떤 스택을 알아야 할까요 ?
 - Summary of Sundays Sessions | 매주 세션 내용 정리
-- [Videos and Terms](#Videos-and-Terms) 
+- [Videos and Terms | Web3 관련 링크 + 읽을 거리](#Videos-and-Terms) 
 
 ### 🧙‍♂️ What is Web3 ? | Web3 란 무엇일까 ?
 * [Truffle](https://trufflesuite.com/) - Most popular smart contract development, testing, and deployment framework. The Truffle suite includes Truffle, [Ganache](https://github.com/trufflesuite/ganache), and [Drizzle](https://github.com/truffle-box/drizzle-box). [Deep dive on Truffle here](https://media.consensys.net/truffle-deep-dive-what-you-need-to-know-when-developing-on-ethereum-e548d4df6e9)
@@ -91,7 +91,7 @@
 
 
 
-### Videos and Terms 
+### Videos and Terms | Web3 관련 링크 + 읽을 거리
 
 * [Truffle](https://trufflesuite.com/) - Most popular smart contract development, testing, and deployment framework. The Truffle suite includes Truffle, [Ganache](https://github.com/trufflesuite/ganache), and [Drizzle](https://github.com/truffle-box/drizzle-box). [Deep dive on Truffle here](https://media.consensys.net/truffle-deep-dive-what-you-need-to-know-when-developing-on-ethereum-e548d4df6e9)
 * [Hardhat](https://hardhat.org/) - Flexible, extensible and fast Ethereum development environment.
