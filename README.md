@@ -30,11 +30,13 @@ Web3 란 무엇일까 ?
 </br>
 
 
-### 🍔 Summary of Sundays Sessions | 매주 세션 내용 정리
+### 🍔 Summary of Sundays Sessions 
+매주 세션 내용 정리
 
 
 </br>
 
-### 📺 Videos, Blogs and Terms | Web3 관련 링크 + 읽을 거리
+### 📺 Videos, Blogs and Terms 
+Web3 관련 링크 + 읽을 거리
 * [Eda's blog](https://eda.hashnode.dev/) - a blog to write about web3
 
