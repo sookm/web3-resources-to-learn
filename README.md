@@ -25,7 +25,9 @@ Web3 란 무엇일까 ?
 <img src="https://raw.githubusercontent.com/fabiospampinato/vscode-github-notifications-bell/master/resources/logo.png" style="width:20px;"/>  [Ethereum Developer Tools List](https://github.com/ConsenSys/ethereum-developer-tools-list) </br>
 
 <img src="https://cdn.freebiesupply.com/images/large/2x/blogger-logo-black-transparent.png" style="width:18px;"/>  [초보자들을 위한 이더리움 DApp 만들기](https://medium.com/@weekly.teckle/%EC%B4%88%EB%B3%B4%EC%9E%90%EB%93%A4%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%9D%B4%EB%8D%94%EB%A6%AC%EC%9B%80-dapp-%EB%A7%8C%EB%93%A4%EA%B8%B0-c6ddb0c6651d) </br>
-* [초보자들을 위한 이더리움 DApp 만들기](https://medium.com/@weekly.teckle/%EC%B4%88%EB%B3%B4%EC%9E%90%EB%93%A4%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%9D%B4%EB%8D%94%EB%A6%AC%EC%9B%80-dapp-%EB%A7%8C%EB%93%A4%EA%B8%B0-c6ddb0c6651d)
+
+<!-- 
+* [초보자들을 위한 이더리움 DApp 만들기](https://medium.com/@weekly.teckle/%EC%B4%88%EB%B3%B4%EC%9E%90%EB%93%A4%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%9D%B4%EB%8D%94%EB%A6%AC%EC%9B%80-dapp-%EB%A7%8C%EB%93%A4%EA%B8%B0-c6ddb0c6651d) -->
 
 </br>
 
