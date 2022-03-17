@@ -17,7 +17,7 @@
 
 ### 🏋️‍♀️ What Stacks Develpers Should Practice ? | 개발자들은 어떤 스택을 알아야 할까요 ?
 
-<img src="https://raw.githubusercontent.com/fabiospampinato/vscode-github-notifications-bell/master/resources/logo.png" style="width:55px;"/>[**Ethereum Developer Tools List**](https://github.com/ConsenSys/ethereum-developer-tools-list)
+<img src="https://raw.githubusercontent.com/fabiospampinato/vscode-github-notifications-bell/master/resources/logo.png" style="width:45px;"/>[**Ethereum Developer Tools List**](https://github.com/ConsenSys/ethereum-developer-tools-list)
 
 
 ![github](https://raw.githubusercontent.com/fabiospampinato/vscode-github-notifications-bell/master/resources/logo.png)
