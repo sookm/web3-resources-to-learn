@@ -42,7 +42,7 @@
 ### 📺 Videos, Blogs and Terms 
 &nbsp;&nbsp; Web3 관련 링크와 읽을 거리 
 
-<img src="https://cdn.freebiesupply.com/images/large/2x/blogger-logo-black-transparent.png" style="width:18px;"/>  [Eda's blog - Writes About Web3](https://eda.hashnode.dev/) </br>
-<img src="https://cdn.freebiesupply.com/images/large/2x/blogger-logo-black-transparent.png" style="width:18px;"/>  [Gaby's Web3 Reading List](https://gabygoldberg.notion.site/f7050e62461143d49345e7b46eb5576b?v=c02511c4230c44ce9a1a03c9757da524) </br>
+<img src="https://cdn.freebiesupply.com/images/large/2x/blogger-logo-black-transparent.png" style="width:19px;"/>  [Eda's blog - Writes About Web3](https://eda.hashnode.dev/) </br>
+<img src="https://cdn.freebiesupply.com/images/large/2x/blogger-logo-black-transparent.png" style="width:19px;"/>  [Gaby's Web3 Reading List](https://gabygoldberg.notion.site/f7050e62461143d49345e7b46eb5576b?v=c02511c4230c44ce9a1a03c9757da524) </br>
 <img src="https://raw.githubusercontent.com/fabiospampinato/vscode-github-notifications-bell/master/resources/logo.png" style="width:20px;"/>  [A List Of The Content About Web3 For 100 Days](https://github.com/FrancescoXX/100-days-of-Web3) </br>
 
