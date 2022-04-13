@@ -20,8 +20,9 @@
 ### 🏋️‍♀️ What Stacks New Developers Should Practice ? 
 
 <img src="https://raw.githubusercontent.com/fabiospampinato/vscode-github-notifications-bell/master/resources/logo.png" style="width:20px;"/>  [Ethereum Developer Tools List](https://github.com/ConsenSys/ethereum-developer-tools-list) </br>
-🔗 [Ethereum Development Tutorials](https://ethereum.org/en/developers/tutorials/) 
 <img src="https://raw.githubusercontent.com/fabiospampinato/vscode-github-notifications-bell/master/resources/logo.png" style="width:20px;"/>  [Solidity resources, libraries, tools and more](https://github.com/bkrem/awesome-solidity) </br>
+🔗 [Ethereum Development Tutorials](https://ethereum.org/en/developers/tutorials/) 
+
 
 🔗 [초보자들을 위한 이더리움 DApp 만들기](https://medium.com/@weekly.teckle/%EC%B4%88%EB%B3%B4%EC%9E%90%EB%93%A4%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%9D%B4%EB%8D%94%EB%A6%AC%EC%9B%80-dapp-%EB%A7%8C%EB%93%A4%EA%B8%B0-c6ddb0c6651d) 
 
