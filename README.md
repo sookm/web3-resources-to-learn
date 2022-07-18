@@ -4,7 +4,6 @@
 - What is Web3 ?  
 - What Stacks New Developers Should Know ?  
 - Videos, Blogs and Terms 
-- Summary of Sundays Sessions  &nbsp;&nbsp;&nbsp;  
 </br>
 </br>
 
@@ -40,6 +39,4 @@
 
 </br>
 
-### 🍔 Summary of Sundays Sessions 
 
-</br>
